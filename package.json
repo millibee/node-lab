@@ -1,0 +1,14 @@
+{
+  "name": "nodelab",
+  "version": "1.0.0",
+  "description": "having some fun",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "git repository"
+  },
+  "author": "Millissa",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
